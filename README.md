@@ -1,2 +1,1 @@
-# Skywars
-Skywars für Pocketmine
+﴾Plugin De SkyWars Para PocketMine﴿
